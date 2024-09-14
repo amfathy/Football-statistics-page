@@ -1,6 +1,6 @@
 # Football Statistics Page
 
-![Football Statistics Page](Fsp.png)
+![Football Statistics Page](App/Fsp.png)
 
 ## Overview
 
