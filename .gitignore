@@ -1,0 +1,15 @@
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore model files
+*.pt
+
+# Ignore frames directory
+video_dividing/frames/
+
+# Ignore status file
+Status.txt
+
+# Ignore environment files
+.env
